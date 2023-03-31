@@ -1,6 +1,6 @@
 Name:		texlive-qualitype
 Version:	54512
-Release:	1
+Release:	2
 Summary:	The QualiType font collection
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qualitype
