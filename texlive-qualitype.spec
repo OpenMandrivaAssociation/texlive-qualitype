@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	The QualiType font collection
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qualitype
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qualitype
 License:	ofl gpl2+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qualitype.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qualitype.doc.r%{version}.tar.xz
